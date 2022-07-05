@@ -20,7 +20,7 @@
 
 <img align="left" alt="Lua" width="32px" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/lua/lua.svg" />
 
-<img align="left" alt="Go" width="32px" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/go/go.svg" />
+<img align="left" alt="Go" width="38px" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/go/go.svg" />
 
 <br>
 <br>
