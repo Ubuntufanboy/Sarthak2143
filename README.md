@@ -12,13 +12,11 @@
 
 <img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" />
 
-<img align="left" alt="HTML" width="32px" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/html/html.svg" />
+<img align="left" alt="HTML" width="25px" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/html/html.svg" />
 
 <img align="left" alt="CSS" width="32px" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/css/css.svg" />
 
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/javascript/javascript.svg" />
-
-<img align="left" alt="PHP" width="32px" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/php/php.svg" />
 
 <img align="left" alt="Lua" width="32px" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/lua/lua.svg" />
 
