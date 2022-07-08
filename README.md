@@ -32,8 +32,6 @@
 [![shin](https://github-readme-stats.vercel.app/api/pin/?username=Sarthak2143&repo=shin&theme=tokyonight)](https://github.com/Sarthak2143/shin)
 [![GmailBruteforce](https://github-readme-stats.vercel.app/api/pin/?username=Sarthak2143&repo=GmailBruteforce&theme=tokyonight)](https://github.com/Sarthak2143/GmailBruteforce)
 [![notes](https://github-readme-stats.vercel.app/api/pin/?username=Sarthak2143&repo=notes&theme=tokyonight)](https://github.com/Sarthak2143/notes)
+[![Flaskblog](https://github-readme-stats.vercel.app/api/pin/?username=Sarthak2143&repo=Flaskblog&theme=tokyonight)](https://github.com/Sarthak2143/Flaskblog)
 ## Languages
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak2143&layout=compact&theme=tokyonight)
-
----
