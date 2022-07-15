@@ -25,13 +25,13 @@
 <br>
 <br>
 
-![Sarthak2143's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarthak2143&show_icons=true&theme=tokyonight)
+![Sarthak2143's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarthak2143&show_icons=true&theme=gruvbox)
 
 ## Projects
 
-[![shin](https://github-readme-stats.vercel.app/api/pin/?username=Sarthak2143&repo=shin&theme=tokyonight)](https://github.com/Sarthak2143/shin)
-[![GmailBruteforce](https://github-readme-stats.vercel.app/api/pin/?username=Sarthak2143&repo=GmailBruteforce&theme=tokyonight)](https://github.com/Sarthak2143/GmailBruteforce)
-[![notes](https://github-readme-stats.vercel.app/api/pin/?username=Sarthak2143&repo=notes&theme=tokyonight)](https://github.com/Sarthak2143/notes)
-[![Flaskblog](https://github-readme-stats.vercel.app/api/pin/?username=Sarthak2143&repo=Flaskblog&theme=tokyonight)](https://github.com/Sarthak2143/Flaskblog)
+[![shin](https://github-readme-stats.vercel.app/api/pin/?username=Sarthak2143&repo=shin&theme=gruvbox)](https://github.com/Sarthak2143/shin)
+[![GmailBruteforce](https://github-readme-stats.vercel.app/api/pin/?username=Sarthak2143&repo=GmailBruteforce&theme=gruvbox)](https://github.com/Sarthak2143/GmailBruteforce)
+[![notes](https://github-readme-stats.vercel.app/api/pin/?username=Sarthak2143&repo=notes&theme=gruvbox)](https://github.com/Sarthak2143/notes)
+[![Flaskblog](https://github-readme-stats.vercel.app/api/pin/?username=Sarthak2143&repo=Flaskblog&theme=gruvbox)](https://github.com/Sarthak2143/Flaskblog)
 ## Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak2143&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak2143&layout=compact&theme=gruvbox)
