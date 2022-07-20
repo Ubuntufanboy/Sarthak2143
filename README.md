@@ -27,6 +27,12 @@
 <br>
 <br>
 
+## Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sarthak2143&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Statistics
+
 ![Sarthak2143's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarthak2143&show_icons=true&theme=github_dark)
 
 ## Projects
