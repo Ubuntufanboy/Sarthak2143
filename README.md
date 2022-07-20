@@ -1,4 +1,4 @@
-[![Header Inage](header.png)]
+![Header Image](header.png)
 
 - 🔭 **Currently working:** Go projects
 - 🌱 **Learning:** Data Structres and Algorithms, Data Science and Low Level Programming.
