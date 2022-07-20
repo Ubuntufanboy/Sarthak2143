@@ -30,6 +30,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sarthak2143&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
+## Contribution streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sarthak2143)](https://git.io/streak-stats)
+
+
 ## Statistics
 
 ![Sarthak2143's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarthak2143&show_icons=true&theme=github_dark)
@@ -40,5 +45,7 @@
 [![GmailBruteforce](https://github-readme-stats.vercel.app/api/pin/?username=Sarthak2143&repo=GmailBruteforce&theme=github_dark)](https://github.com/Sarthak2143/GmailBruteforce)
 [![notes](https://github-readme-stats.vercel.app/api/pin/?username=Sarthak2143&repo=notes&theme=github_dark)](https://github.com/Sarthak2143/notes)
 [![Flaskblog](https://github-readme-stats.vercel.app/api/pin/?username=Sarthak2143&repo=Flaskblog&theme=github_dark)](https://github.com/Sarthak2143/Flaskblog)
+
 ## Languages
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak2143&layout=compact&theme=github_dark)
