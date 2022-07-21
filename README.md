@@ -2,6 +2,10 @@
 
 I am a 16 year old senior year high school student at India. I am interested in Mathematics, Cyhersecurity, Artificial Intelligence and Programming. I mostly code in `Python`, `Golang`, `Lua` and `JavaScript`. I am an aspiring Machine Learning Engineer.
 
+---
+
+![Hacking GIF](https://giphy.com/gifs/gptv-code-coding-gppark-frNC8HLtwZjOLLPbV7)
+
 ## Connect with me
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/voldemort_shin)
