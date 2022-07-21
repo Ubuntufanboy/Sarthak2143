@@ -1,51 +1,35 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=2DF72A&height=50&center=true&lines=Hey+there%2C+I+am+Sarthak2143)](https://git.io/typing-svg)
 
-- 🔭 **Currently working:** Go projects
-- 🌱 **Learning:** Data Structres and Algorithms, Data Science and Low Level Programming.
-- 😄 **Pronouns:** He/Him
-- 😎 **Age:** 16
+<h1 align="center">Hi 👋, I'm Sarthak2143</h1>
+<h3 align="center">Interested in Mathematics, Artificial Intelligence and Programming.</h3>
 
-[GitLab Account](https://gitlab.com/Sarthak2143)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak2143&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak2143" /> </p>
 
-## Tools and Languages
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthak2143" alt="sarthak2143" /></a> </p>
 
-<img align="left" alt="Vim" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
+<p align="left"> <a href="https://twitter.com/voldemort_shin" target="blank"><img src="https://img.shields.io/twitter/follow/voldemort_shin?logo=twitter&style=for-the-badge" alt="voldemort_shin" /></a> </p>
 
-<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" />
+- 🔭 I’m currently working on **Go projects**
 
-<img align="left" alt="HTML" width="25px" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/html/html.svg" />
+- 🌱 I’m currently learning **Data Structures and Algorithms, Cybersecurity and Machine Learning.**
 
-<img align="left" alt="CSS" width="32px" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/css/css.svg" />
+- 👯 I’m looking to collaborate on **CLI Projects**
 
-<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/javascript/javascript.svg" />
+- 💬 Ask me about **Go, python and bash**
 
-<img align="left" alt="Lua" width="32px" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/lua/lua.svg" />
+- 📫 How to reach me **shinero#5820**
 
-<img align="left" alt="Go" width="38px" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/go/go.svg" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/voldemort_shin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="voldemort_shin" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shinero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shinero" height="30" width="40" /></a>
+</p>
 
-<br>
-<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## Trophies
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthak2143&show_icons=true&theme=onedark&locale=en&layout=compact" alt="sarthak2143" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sarthak2143&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthak2143&show_icons=true&theme=onedark&locale=en" alt="sarthak2143" /></p>
 
-## Contribution streak
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak2143&theme=dark" alt="sarthak2143" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sarthak2143)](https://git.io/streak-stats)
-
-
-## Statistics
-
-![Sarthak2143's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarthak2143&show_icons=true&theme=github_dark)
-
-## Projects
-
-[![shin](https://github-readme-stats.vercel.app/api/pin/?username=Sarthak2143&repo=shin&theme=github_dark)](https://github.com/Sarthak2143/shin)
-[![GmailBruteforce](https://github-readme-stats.vercel.app/api/pin/?username=Sarthak2143&repo=GmailBruteforce&theme=github_dark)](https://github.com/Sarthak2143/GmailBruteforce)
-[![notes](https://github-readme-stats.vercel.app/api/pin/?username=Sarthak2143&repo=notes&theme=github_dark)](https://github.com/Sarthak2143/notes)
-[![Flaskblog](https://github-readme-stats.vercel.app/api/pin/?username=Sarthak2143&repo=Flaskblog&theme=github_dark)](https://github.com/Sarthak2143/Flaskblog)
-
-## Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak2143&layout=compact&theme=github_dark)
