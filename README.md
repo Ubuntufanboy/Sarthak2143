@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=2DF72A&height=90&lines=Hey+there%2C+I+am+Sarthak2143)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=2DF72A&height=90&center=true&lines=Hey+there%2C+I+am+Sarthak2143)](https://git.io/typing-svg)
 
 - 🔭 **Currently working:** Go projects
 - 🌱 **Learning:** Data Structres and Algorithms, Data Science and Low Level Programming.
