@@ -4,7 +4,7 @@ I am a 16 year old senior year high school student at India. I am interested in 
 
 ---
 
-![Hacking GIF](https://giphy.com/gifs/gptv-code-coding-gppark-frNC8HLtwZjOLLPbV7)
+<img align="right" alt="Hacking GIF" width="400" src="https://media3.giphy.com/media/frNC8HLtwZjOLLPbV7/giphy.webp?cid=6c09b952e4ae935cd498d84d2335c5b4fa7d825c7d105dd6&rid=giphy.webp&ct=g">
 
 ## Connect with me
 
