@@ -6,6 +6,8 @@ I am a 16 year old senior year high school student at India. I am interested in 
 
 <img align="right" alt="Hacking GIF" width="400" src="https://media3.giphy.com/media/frNC8HLtwZjOLLPbV7/giphy.webp?cid=6c09b952e4ae935cd498d84d2335c5b4fa7d825c7d105dd6&rid=giphy.webp&ct=g">
 
+---
+
 ## Connect with me
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/voldemort_shin)
