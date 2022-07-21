@@ -1,10 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=2DF72A&height=50&center=true&lines=Hey+there%2C+I+am+Sarthak2143)](https://git.io/typing-svg)
+# Hey there, 👋. I'm Sarthak2143
 
-- 🔭 **Currently working:** Go projects
-- 🌱 **Learning:** Data Structres and Algorithms, Data Science and Low Level Programming.
-- 😄 **Pronouns:** He/Him
-- 😎 **Age:** 16
-
+I am a 16 year old senior year high school student at India. I am interested in Mathematics, Cyhersecurity, Artificial Intelligence and Programming. I mostly code in `Python`, `Golang`, `Lua` and `JavaScript`. I am an aspiring Machine Learning Engineer.
 
 ## Connect with me
 
@@ -35,7 +31,7 @@
 
 ## Contribution streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sarthak2143&theme=github-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sarthak2143&theme=github-dark-blue)](https://git.io/streak-stats)
 
 ## Statistics
 
