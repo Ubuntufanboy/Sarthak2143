@@ -5,6 +5,8 @@
 - 😄 **Pronouns:** He/Him
 - 😎 **Age:** 16
 
+![Profile Views](https://komarev.com/ghpvc/?username=Sarthak2143&color=green&style=for-the-badge)
+
 [GitLab Account](https://gitlab.com/Sarthak2143)
 
 ## Tools and Languages
