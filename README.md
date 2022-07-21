@@ -5,23 +5,45 @@
 - 😄 **Pronouns:** He/Him
 - 😎 **Age:** 16
 
-[GitLab Account](https://gitlab.com/Sarthak2143)
+
+## Connect with me
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/voldemort_shin)
+
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/Voldemort_shin)
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/channel/UC9Q6xmHQeIk1cd1Vp6FCzxA)
+
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31hpatb7vdqw6tzcfql77yfkybzi?si=ck6K4fCpSIWwfhV_LNEM6A)
+
 
 ## Tools and Languages
 
-<img align="left" alt="Vim" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" />
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<img align="left" alt="HTML" width="25px" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/html/html.svg" />
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<img align="left" alt="CSS" width="32px" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/css/css.svg" />
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/javascript/javascript.svg" />
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
-<img align="left" alt="Lua" width="32px" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/lua/lua.svg" />
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-<img align="left" alt="Go" width="38px" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/go/go.svg" />
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <br>
 <br>
@@ -32,8 +54,7 @@
 
 ## Contribution streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sarthak2143)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sarthak2143&theme=github-dark)](https://git.io/streak-stats)
 
 ## Statistics
 
@@ -42,8 +63,11 @@
 ## Projects
 
 [![shin](https://github-readme-stats.vercel.app/api/pin/?username=Sarthak2143&repo=shin&theme=github_dark)](https://github.com/Sarthak2143/shin)
+
 [![GmailBruteforce](https://github-readme-stats.vercel.app/api/pin/?username=Sarthak2143&repo=GmailBruteforce&theme=github_dark)](https://github.com/Sarthak2143/GmailBruteforce)
+
 [![notes](https://github-readme-stats.vercel.app/api/pin/?username=Sarthak2143&repo=notes&theme=github_dark)](https://github.com/Sarthak2143/notes)
+
 [![Flaskblog](https://github-readme-stats.vercel.app/api/pin/?username=Sarthak2143&repo=Flaskblog&theme=github_dark)](https://github.com/Sarthak2143/Flaskblog)
 
 ## Languages
